@@ -9,8 +9,8 @@ xcoders bot is a bot built using nodejs and uses the baileys library please star
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-git clone https://github.com/xcoders-teams/xcoders-bot.git
-cd xcoders-bot
+git clone https://github.com/Fxc7/baileys-bot-md.git
+cd baileys-bot-md
 npm i
 npm start
 ```
