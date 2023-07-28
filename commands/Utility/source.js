@@ -6,6 +6,6 @@ export default {
     description: 'Sorce code this bot',
     usage: '',
     execute: ({ xcoders, m, x  }) => {
-        return xcoders.requestPaymentMenu(m.chat, '```https://github.com/xcoders-teams/xcoders-bot```', { quoted: x });
+        return xcoders.requestPaymentMenu(m.chat, '```https://github.com/Fxc7/baileys-bot-md```', { quoted: x });
     }
 }
