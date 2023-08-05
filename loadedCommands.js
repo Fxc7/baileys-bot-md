@@ -66,7 +66,7 @@ function updateCommandsFile() {
   }
 }
 
-export default async function index(functions) {
-  await loadCommands(functions);
+export default async function index() {
+  await loadCommands();
   updateCommandsFile();
 }
