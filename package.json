@@ -10,10 +10,10 @@
   "description": "simple whatsapp bot for documentation rest api: api-xcoders.site",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xcoders-teams/xcodersbot.git"
+    "url": "git+https://github.com/Fxc7/baileys-bot-md.git"
   },
   "bugs": {
-    "url": "https://github.com/xcoders-teams/xcoders-bot/issues"
+    "url": "https://github.com/Fxc7/baileys-bot-md/issues"
   },
   "scripts": {
     "experimental": "node --experimental-modules main.js",
